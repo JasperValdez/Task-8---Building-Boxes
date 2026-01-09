@@ -1,0 +1,64 @@
+/*CSS reset settings here*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 940px;
+    background-color: #FFD9B7;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#logo {
+    min-height: 130px;
+    width: 260px;
+    background-color: #B97A57;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+#navigation {
+    min-height: 130px;
+    width: 615px;
+    background-color: #FF7F27;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#main_content {
+    min-height: 250px;
+    width: 860px;
+    background-color: #880015;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+#about {
+    min-height: 250px;
+    width: 650px;
+    background-color: #FFAEC9;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+#advertisement {
+    min-height: 200px;
+    width: 155px;
+    background-color: #C8BFE7;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sponsors {
+    min-height: 65px;
+    width: 290px;
+    background-color: #FFFF88;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+}
+
